@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishaanthyagarajan or Krish for short!
 - 👀 I’m interested in finance & economics which I am planning to pursue in university.
-- 🌱 I’m currently learning how to code through Harvard's CS50 course.
+- 🌱 I’m currently learning computer science through Harvard's CS50 course.
 - 💞️ I’m looking to collaborate on learning CS and how it can be applied to finance and economics.
 - 📫 You can connect with me on Linkedin via the following link: https://www.linkedin.com/in/krishaan-thyagarajan-587836173/
 
